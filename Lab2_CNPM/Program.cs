@@ -10,6 +10,7 @@ namespace Lab2_CNPM
     {
         static void Main(string[] args)
         {
+             Console.WriteLine("Hello C#");
         }
     }
 }
